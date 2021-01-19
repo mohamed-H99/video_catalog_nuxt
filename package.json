@@ -1,0 +1,23 @@
+{
+  "name": "videoCatalog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.4",
+    "core-js": "^3.8.2",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.14.12",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  }
+}
