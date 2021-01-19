@@ -11,9 +11,7 @@
   "dependencies": {
     "@nuxtjs/pwa": "^3.3.4",
     "core-js": "^3.8.2",
-    "jquery": "^3.5.1",
-    "nuxt": "^2.14.12",
-    "popper.js": "^1.16.1"
+    "nuxt": "^2.14.12"
   },
   "devDependencies": {
     "eslint-config-prettier": "^7.1.0",
